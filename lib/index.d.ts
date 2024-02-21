@@ -1,1 +1,1 @@
-export const websitePath: string;
+export const games: string;
