@@ -1,0 +1,16 @@
+{
+	"name": "games",
+	"version": "1.0.0",
+	"description": "supernova games",
+	"main": "lib/index.js",
+	"type": "module",
+	"license": "GPLv3",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alive-hamster/Supernova-games.git"
+	},
+	"files": [
+		"lib",
+		"dist"
+	]
+}
